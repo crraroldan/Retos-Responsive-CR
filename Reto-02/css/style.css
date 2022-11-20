@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+
+.header {
+    color: #36A0FF;
+    font-size: 27px;
+    padding: 10px;
+}
+
+.bigicon {
+    font-size: 35px;
+    color: #36A0FF;
+}
+
+
+.ContenedorPrincipal{
+
+    background-color: rgb(224, 224, 224);
+
+    width: 800px;
+    height: 550px;
+   
+
+}
+.container{
+
+    background-color: rgba(11, 166, 117, 0);
+    justify-content: center;
+    justify-items: center;
+
+}
+
+
+.form-group{
+
+    background-color: rgba(0, 0, 255, 0);
+
+}
+
+
+
