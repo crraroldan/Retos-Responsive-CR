@@ -1,0 +1,36 @@
+body{
+
+    background-color: rgb(255, 255, 255);
+}
+
+
+.btn-success{
+
+    background-color: rgb(11, 134, 186);
+}
+
+.btn-warning{
+
+    background-color: rgb(37, 157, 0);
+}
+
+.btn-warning1{
+
+    background-color: rgb(13, 97, 136);
+}
+
+
+table tr:nth-child(1) {
+	color: #fff;
+	background-color: rgb(197, 197, 197);
+}
+
+table tr:nth-child(3) {
+	color: #fff;
+	background-color: rgb(197, 197, 197);
+}
+
+table tr:nth-child(5) {
+	color: #fff;
+	background-color: rgb(197, 197, 197);
+}
